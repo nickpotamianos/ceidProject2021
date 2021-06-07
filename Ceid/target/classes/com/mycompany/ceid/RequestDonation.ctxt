@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RequestDonation
+comment1.params=ex1\ ex2
+comment1.target=int\ compare(Entity,\ Entity)
+comment1.text=User\ ex1\=new\ User("ex","h2o",1);\r\nUser\ ex2\=new\ User("ex2","ho",1);
+comment2.params=a
+comment2.target=void\ addEntity(Entity)
+comment3.params=
+comment3.target=void\ getList()
+numComments=4
